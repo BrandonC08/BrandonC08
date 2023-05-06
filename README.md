@@ -9,7 +9,7 @@
 
 - I'm teaching in Universidad Fidélitas
 - 💬 Ask me about R studio, Python, Java, Power Bi, SQL and more...
-- 🌱 I’m currently learning HTML and CSS and I work in the leanguages that I'm already know
+- 🌱 I’m currently learning HTML and CSS and I work in the languages that I'm already know
 - 🤔 How to reach me brandon.cespedes04@gmail.com
 
 <div align = "left">
